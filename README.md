@@ -1,4 +1,4 @@
-# Superstore Profitability Analysi
+# Superstore Profitability Analysis
 
 ## Project Summary
 An Excel-based analysis of the Sample Superstore dataset to identify which 

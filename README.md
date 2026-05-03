@@ -46,3 +46,4 @@ and what is causing it?
 ---
 
 ## Dashboard Preview
+[Dashboard] (Superstore dashboard.png)
